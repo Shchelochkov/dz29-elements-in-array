@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    height: 500px;
+    justify-content: space-around;
+}
+.vazauto{
+    padding: 50px;
+    background-color: rgb(166, 200, 230);
+    width: 500px;
+}
+.pokypki{
+    padding: 50px;
+    background-color: rgb(194, 200, 199);
+    width: 500px;
+}
